@@ -23,5 +23,6 @@
   },
   "eslintConfig": {
     "extends": "./node_modules/react-scripts/config/eslint.js"
-  }
+  },
+  "homepage": "http://winkervsbecks.github.io/splash/"
 }
